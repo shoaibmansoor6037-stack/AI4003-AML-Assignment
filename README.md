@@ -2,8 +2,8 @@
 
 | Name | Roll Number |
 
-| Shoaib Mansoor Shah Nawaz | 23F6-03-7 |
-| Muhammad Malik | 22F3-4-8-7 |
+| Shoaib Mansoor Shah Nawaz | 23F-6037 |
+| Muhammad Malik | 22F-3487 |
 # AI4003 Applied Machine Learning Assignment
 
 ## Predicting Solar Power Plant Output from Weather
