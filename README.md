@@ -1,4 +1,9 @@
+## Group Members
 
+| Name | Roll Number |
+
+| Shoaib Mansoor Shah Nawaz | 23F6-03-7 |
+| Muhammad Malik | 22F3-4-8-7 |
 # AI4003 Applied Machine Learning Assignment
 
 ## Predicting Solar Power Plant Output from Weather
