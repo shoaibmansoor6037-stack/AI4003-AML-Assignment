@@ -1,0 +1,7 @@
+Weather Set,Method,Alpha,Iterations / Epochs,Test RMSE (kW)
+Set A,Normal Equation,-,-,553.3193624130096
+Set A,Batch GD,0.001,500,580.61839310394
+Set A,SGD,0.01,50,569.2446618534332
+Set B,Normal Equation,-,-,2626.129230218624
+Set B,Batch GD,0.001,500,2626.129230215814
+Set B,SGD,0.001,50,2588.632848199226
